@@ -1,0 +1,10 @@
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Form1.resources
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.Properties.Resources.resources
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe.config
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.exe
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\bin\Debug\SepatuApp.pdb
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.exe
+C:\Users\Martin\source\repos\SepatuApp\SepatuApp\obj\Debug\SepatuApp.pdb
